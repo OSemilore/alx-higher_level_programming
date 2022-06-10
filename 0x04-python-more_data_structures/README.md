@@ -1,1 +1,1 @@
-squared by using map
+delete by value
