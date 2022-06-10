@@ -7,4 +7,4 @@ def uniq_add(my_list=[]):
          num += i
 
      return num
-     print("Result: {:d}.format(num)")
+     print("Result: " + num)
