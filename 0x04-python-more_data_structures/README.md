@@ -1,1 +1,1 @@
-weighted average
+squared by using map
