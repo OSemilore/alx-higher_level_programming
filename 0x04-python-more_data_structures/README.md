@@ -1,1 +1,1 @@
-simple delete key
+multiply by 2
