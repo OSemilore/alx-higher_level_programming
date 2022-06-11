@@ -1,1 +1,1 @@
-print string
+play with strings
