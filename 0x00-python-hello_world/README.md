@@ -1,1 +1,1 @@
-hello print
+print integer
