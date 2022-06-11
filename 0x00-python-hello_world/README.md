@@ -1,1 +1,1 @@
-print integer
+print float
