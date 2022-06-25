@@ -1,1 +1,1 @@
-only by 2
+delete list
