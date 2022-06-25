@@ -1,1 +1,1 @@
-easy print
+python code
