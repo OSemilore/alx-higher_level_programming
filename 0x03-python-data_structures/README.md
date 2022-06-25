@@ -1,1 +1,1 @@
-delete list
+switch
