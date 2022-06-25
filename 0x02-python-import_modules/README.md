@@ -1,1 +1,1 @@
-own calculator
+easy print
