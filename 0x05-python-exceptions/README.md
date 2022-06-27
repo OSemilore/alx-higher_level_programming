@@ -1,1 +1,1 @@
-printing integer list
+print and count integers
