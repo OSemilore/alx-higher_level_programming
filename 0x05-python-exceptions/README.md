@@ -1,1 +1,1 @@
-raise exception
+exception message
