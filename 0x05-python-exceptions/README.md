@@ -1,1 +1,1 @@
-divide a list
+raise exception
