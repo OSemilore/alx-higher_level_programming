@@ -1,1 +1,1 @@
-define triangle
+area and perimeter
