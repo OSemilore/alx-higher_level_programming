@@ -1,1 +1,1 @@
-exception message
+error message
