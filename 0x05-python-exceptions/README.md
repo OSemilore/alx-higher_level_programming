@@ -1,1 +1,1 @@
-error message
+safe function
