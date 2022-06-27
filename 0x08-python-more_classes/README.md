@@ -1,1 +1,1 @@
-area and perimeter
+string presentation
