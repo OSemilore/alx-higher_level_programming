@@ -1,1 +1,1 @@
-is really equal
+is really the same
