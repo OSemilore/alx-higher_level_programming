@@ -1,1 +1,1 @@
-right count
+is equal
