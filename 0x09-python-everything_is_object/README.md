@@ -1,1 +1,1 @@
-is really the same
+list is it equal
