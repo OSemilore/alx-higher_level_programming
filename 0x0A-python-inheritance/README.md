@@ -1,1 +1,1 @@
-same class
+sub class
