@@ -1,1 +1,1 @@
-full rectangle
+rectangle
