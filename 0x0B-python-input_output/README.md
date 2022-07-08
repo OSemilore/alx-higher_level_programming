@@ -1,1 +1,1 @@
-read file
+write to file
