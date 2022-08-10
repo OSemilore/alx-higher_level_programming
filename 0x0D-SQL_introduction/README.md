@@ -1,1 +1,1 @@
-create a database
+delete a database
