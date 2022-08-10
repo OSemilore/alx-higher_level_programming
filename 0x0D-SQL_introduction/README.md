@@ -1,1 +1,1 @@
-list tables
+full table
