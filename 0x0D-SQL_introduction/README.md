@@ -1,1 +1,1 @@
-select the best
+no cheating
