@@ -1,1 +1,1 @@
-list database
+create a database
