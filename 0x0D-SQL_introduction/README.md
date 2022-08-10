@@ -1,1 +1,1 @@
-delete a database
+list tables
